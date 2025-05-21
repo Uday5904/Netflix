@@ -33,7 +33,7 @@ Clone the repository to your local machine:<br>
 
 ##bash<br>
 
-##git clone https://github.com/Akgithhub/Netflix-Clone.git<br>
+
 Open the index.html file in your preferred web browser to start exploring the Netflix Clone.<br>
 
 ##Usage<br>
